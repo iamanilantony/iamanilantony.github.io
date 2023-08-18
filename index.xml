@@ -1,0 +1,92 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+	<title>My New Hugo Site</title>
+	<link>http://example.org/</link>
+	<description>Recent content in Home on My New Hugo Site</description>
+	<generator>Hugo -- gohugo.io</generator>
+	<language>en-us</language>
+	<lastBuildDate>Sun, 30 Jul 2023 14:41:24 +0530</lastBuildDate>
+    
+        <atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
+	
+	
+	<item>
+		<title>About</title>
+		<link>http://example.org/about/</link>
+		<pubDate>Tue, 15 Aug 2023 17:33:14 +0530</pubDate>
+		
+		<guid>http://example.org/about/</guid>
+		<description>&lt;p&gt;Hey, I&amp;rsquo;m &lt;strong&gt;Anil Antony&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Full Stack Developer at  &lt;a href=&#34;https://www.settlin.in&#34;&gt;&lt;strong&gt;Settlin&lt;/strong&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;I&amp;rsquo;m a digital builder who thrives on translating real-world challenges into innovative digital solutions.&lt;/p&gt;
+&lt;p&gt;Rather than chasing coding competitions, I&amp;rsquo;m motivated by the joy of creation. I build because I&amp;rsquo;m curious, not just to compete. Solving genuine problems with elegant digital products is my passion.&lt;/p&gt;
+&lt;p&gt;My work speaks volumes, even if it&amp;rsquo;s not the loudest in the room. Every line of code represents my dedication to transforming ideas into practical solutions.&lt;/p&gt;
+&lt;p&gt;Looking forward to connecting with you!&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;→ &lt;a href=&#34;https://github.com/iamanilantony&#34;&gt;Github&lt;/a&gt; &lt;!-- raw HTML omitted --&gt;&lt;/li&gt;
+&lt;li&gt;→ &lt;a href=&#34;https://twitter.com/iamanilantony&#34;&gt;Twitter&lt;/a&gt; &lt;!-- raw HTML omitted --&gt;&lt;/li&gt;
+&lt;li&gt;→ &lt;a href=&#34;mailto:anilantony3134@gmail.com&#34;&gt;Mail&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;What am I doing &lt;a href=&#34;http://example.org/works&#34;&gt;&lt;strong&gt;now?&lt;/strong&gt;&lt;/a&gt;&lt;/p&gt;
+</description>
+	</item>
+	
+	<item>
+		<title>Works</title>
+		<link>http://example.org/skills/</link>
+		<pubDate>Tue, 15 Aug 2023 17:33:14 +0530</pubDate>
+		
+		<guid>http://example.org/skills/</guid>
+		<description>&lt;h4 id=&#34;trackmytrip&#34;&gt;TrackMyTrip&lt;/h4&gt;
+&lt;p&gt;Description of your first work.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.example1.com&#34;&gt;Live&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/yourusername/repo1&#34;&gt;Code&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4 id=&#34;catchup&#34;&gt;Catchup&lt;/h4&gt;
+&lt;p&gt;Description of your second work.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Live Website: &lt;a href=&#34;https://www.example2.com&#34;&gt;Website 2&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;GitHub Repo: &lt;a href=&#34;https://github.com/yourusername/repo2&#34;&gt;GitHub Repo 2&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4 id=&#34;cinefest&#34;&gt;Cinefest&lt;/h4&gt;
+&lt;p&gt;Description of your third work.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Live Website: &lt;a href=&#34;https://www.example3.com&#34;&gt;Website 3&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;GitHub Repo: &lt;a href=&#34;https://github.com/yourusername/repo3&#34;&gt;GitHub Repo 3&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+	</item>
+	
+	<item>
+		<title>Works</title>
+		<link>http://example.org/works/</link>
+		<pubDate>Tue, 15 Aug 2023 17:33:14 +0530</pubDate>
+		
+		<guid>http://example.org/works/</guid>
+		<description>&lt;h4 id=&#34;trackmytrip&#34;&gt;TrackMyTrip&lt;/h4&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;p&gt;Description of your first work.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.example1.com&#34;&gt;Live&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/yourusername/repo1&#34;&gt;Code&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4 id=&#34;catchup&#34;&gt;Catchup&lt;/h4&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;p&gt;Description of your second work.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Live Website: &lt;a href=&#34;https://www.example2.com&#34;&gt;Website 2&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;GitHub Repo: &lt;a href=&#34;https://github.com/yourusername/repo2&#34;&gt;GitHub Repo 2&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4 id=&#34;cinefest&#34;&gt;Cinefest&lt;/h4&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;p&gt;Description of your third work.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Live Website: &lt;a href=&#34;https://www.example3.com&#34;&gt;Website 3&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;GitHub Repo: &lt;a href=&#34;https://github.com/yourusername/repo3&#34;&gt;GitHub Repo 3&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+	</item>
+	
+	</channel>
+</rss>
